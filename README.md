@@ -8,3 +8,6 @@ MACHINE LEARNING MODEL
 The project uses a classification model to identify fraudulent transactions.
 Model used:  RandomForestClassifier
 The dataset is split into training and testing sets, and the model is trained on the training data and evaluated on test data.
+
+The accuracy is 0.999561
+The precision is 0.962025
